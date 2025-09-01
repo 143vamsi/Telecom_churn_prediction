@@ -37,3 +37,8 @@ This project predicts **customer churn** for a telecom company using **Machine L
 ---
 
 ## 📂 Project Structure
+├── Telecom_Customer_Churn_Prediction.ipynb # Jupyter Notebook
+├── telecom_churn_data.csv # Dataset (not included in repo)
+├── requirements.txt # Dependencies
+└── README.md # Documentation
+
